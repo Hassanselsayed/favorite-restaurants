@@ -1,0 +1,23 @@
+{
+  "name": "favorite-restaurants",
+  "version": "1.0.0",
+  "description": "A web app to save your favorite restaurants near you or in any city",
+  "main": "script.js",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassanselsayed/favorite-restaurants.git"
+  },
+  "keywords": [
+    "food",
+    "favorite"
+  ],
+  "author": "helsayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassanselsayed/favorite-restaurants/issues"
+  },
+  "homepage": "https://github.com/Hassanselsayed/favorite-restaurants#readme"
+}
